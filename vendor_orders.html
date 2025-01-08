@@ -1,0 +1,10 @@
+<!-- vendor_orders.html -->
+
+<h1>Orders for {{ vendor.name }}</h1>
+<ul>
+    {% for order in orders %}
+        <li>{{ order }}</li>
+    {% empty %}
+        <li>No orders found for this vendor.</li>
+    {% endfor %}
+</ul>

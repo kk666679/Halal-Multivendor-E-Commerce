@@ -1,0 +1,19 @@
+app
+└── code
+    └── Vendor
+        └── MultiVendor
+            ├── registration.php
+            ├── etc
+            │   ├── module.xml
+            │   ├── adminhtml
+            │   │   └── routes.xml
+            ├── Controller
+            │   └── Adminhtml
+            │       └── Vendor
+            │           └── Index.php
+            ├── Model
+            │   └── Vendor.php
+            ├── view
+                └── adminhtml
+                    └── layout
+                        └── multivendor_vendor_index.xml

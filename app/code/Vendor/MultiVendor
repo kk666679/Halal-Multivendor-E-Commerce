@@ -1,0 +1,4 @@
+cd app/code/Vendor/MultiVendor
+git init
+git add .
+git commit -m "Initial commit for Multi-Vendor Module"

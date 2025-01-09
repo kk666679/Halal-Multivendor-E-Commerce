@@ -276,15 +276,15 @@ For inquiries, reach out to **admin@chemmara.com**.
 
 ---
 
-### 12. Scalability Strategies
-12.1 Layer 2 Solutions
-   - Use Polygon or Arbitrum to reduce gas fees and increase transaction throughput.
-12.2 Sharding for Data Storage
-   - Partition MongoDB collections based on user regions or product categories.
-12.3 CDN Integration
-   - Use a Content Delivery Network (CDN) like Cloudflare or AWS CloudFront to serve static assets globally.
-12.4 Off-Chain Processing
-   - Offload non-essential computations (e.g., product recommendations) to backend servers.
+### 12. Scalability Strategies   
+   12.1 Layer 2 Solutions
+      - Use Polygon or Arbitrum to reduce gas fees and increase transaction throughput.
+   12.2 Sharding for Data Storage
+      - Partition MongoDB collections based on user regions or product categories.
+   12.3 CDN Integration
+      - Use a Content Delivery Network (CDN) like Cloudflare or AWS CloudFront to serve static assets globally.
+   12.4 Off-Chain Processing
+      - Offload non-essential computations (e.g., product recommendations) to backend servers.
 
 ---
 
@@ -318,13 +318,13 @@ Phase 4: Global Launch and Optimization (Ongoing)
 ---
 
 ### 14. Security and Compliance
-   14.1 Security Measures
-         - Smart Contract Audits:
-         - Use MythX, Certik, or OpenZeppelin Defender.
-      - Data Encryption:
-         - Encrypt sensitive data like user profiles using AES or RSA.
-         - Two-Factor Authentication (2FA):
-         - Require 2FA for vendor and admin accounts.
+14.1 Security Measures
+    - Smart Contract Audits:
+    - Use MythX, Certik, or OpenZeppelin Defender.
+    - Data Encryption:
+      - Encrypt sensitive data like user profiles using AES or RSA.
+      - Two-Factor Authentication (2FA):
+      - Require 2FA for vendor and admin accounts.
 
 ---
 

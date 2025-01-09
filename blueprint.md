@@ -215,6 +215,7 @@ For inquiries, reach out to **admin@chemmara.com**.
 ---
 ```
 ## 10. Advanced Features
+
 ### 10.1 Tokenized Loyalty Program
    - Introduce a native platform token (e.g., HALAL Token).
    - Use the token for:
@@ -222,61 +223,58 @@ For inquiries, reach out to **admin@chemmara.com**.
    - Rewards for vendors and customers.
    - Governance (voting on platform decisions).
 
----
-
 ### 10.2 AI-Powered Product Recommendations
+
    - Use machine learning models to analyze customer preferences and suggest halal products.
    - Tools:
       - TensorFlow.js for in-browser machine learning.
       - AWS SageMaker or Google Vertex AI for backend AI services.
 
----
-
 ### 10.3 Decentralized Governance
+
    - Implement a DAO (Decentralized Autonomous Organization) for platform governance.
    - Token holders can vote on:
       - New feature development.
       - Changes in transaction fees.
       - Vendor approval processes.
 
----
-
 ### 10.4 Real-Time Order Tracking
+
    - Use IoT devices or APIs from logistics partners.
    - Integrate blockchain for immutable tracking records:
       - Record order status updates (e.g., "Shipped," "Delivered") directly on-chain.
 
 ---
 
-### 11. Real-World Implementation Steps
-   - 11.1 Design and Development
-      1. UI/UX Design:
-         - Create wireframes and mockups for vendor, customer, and admin dashboards.
-         - Ensure responsiveness for mobile and desktop users.
-      2. Smart Contract Development:
-         - Finalize contracts for halal certification, product listing, and payment.
-         - Simulate transactions on a local testnet (e.g., Hardhat Network).
-      3. Frontend Integration:
-         - Connect smart contracts to the React frontend using Ethers.js or Web3.js.
-         - Develop forms for vendor onboarding and product listing.
-      4. Backend Development:
-         - Implement serverless functions for off-chain tasks like image uploads to IPFS.
-         - Set up a MongoDB database for user profiles and order history.
+## 11. Real-World Implementation Steps
 
----
+### 11.1 Design and Development
+   1. UI/UX Design:
+      - Create wireframes and mockups for vendor, customer, and admin dashboards.
+      - Ensure responsiveness for mobile and desktop users.
+   2. Smart Contract Development:
+      - Finalize contracts for halal certification, product listing, and payment.
+      - Simulate transactions on a local testnet (e.g., Hardhat Network).
+   3. Frontend Integration:
+      - Connect smart contracts to the React frontend using Ethers.js or Web3.js.
+      - Develop forms for vendor onboarding and product listing.
+   4. Backend Development:
+      - Implement serverless functions for off-chain tasks like image uploads to IPFS.
+      - Set up a MongoDB database for user profiles and order history.
 
 ### 11.2 Deployment
-   1. Testnet Deployment:
-      - Deploy contracts to Polygon Mumbai or Goerli Testnet.
-      - Test interactions using MetaMask and blockchain explorers.
-   2. Production Deployment:
-      - Deploy contracts to Ethereum Mainnet, Polygon Mainnet, or Binance Smart Chain.
-      - Migrate the frontend to Vercel or Netlify.
-      - Ensure serverless functions are optimized for high traffic.
+
+ - Testnet Deployment:
+   - Deploy contracts to Polygon Mumbai or Goerli Testnet.
+   - Test interactions using MetaMask and blockchain explorers.
+ - Production Deployment:
+   - Deploy contracts to Ethereum Mainnet, Polygon Mainnet, or Binance Smart Chain.
+   - Migrate the frontend to Vercel or Netlify.
+   - Ensure serverless functions are optimized for high traffic.
 
 ---
 
-### 12. Scalability Strategies
+## 12. Scalability Strategies
 
 - Layer 2 Solutions
     - Use Polygon or Arbitrum to reduce gas fees and increase transaction throughput.
@@ -289,7 +287,7 @@ For inquiries, reach out to **admin@chemmara.com**.
 
 ---
 
-### 13. Roadmap for Deployment
+## 13. Roadmap for Deployment
 
 Phase 1: Foundation (1-2 Months)
    - Objective: Set up the initial infrastructure and test blockchain integration.
@@ -318,17 +316,15 @@ Phase 4: Global Launch and Optimization (Ongoing)
 
 ---
 
-### 14. Security and Compliance
+## 14. Security and Compliance
 
-- 14.1 Security Measures
+### 14.1 Security Measures
    - Smart Contract Audits:
       - Use MythX, Certik, or OpenZeppelin Defender.
    - Data Encryption:
       - Encrypt sensitive data like user profiles using AES or RSA.
       - Two-Factor Authentication (2FA):
       - Require 2FA for vendor and admin accounts.
-
----
 
 ### 14.2 Compliance
    - Halal Certification Authorities:

@@ -276,15 +276,16 @@ For inquiries, reach out to **admin@chemmara.com**.
 
 ---
 
-### 12. Scalability Strategies   
-   12.1 Layer 2 Solutions
-      - Use Polygon or Arbitrum to reduce gas fees and increase transaction throughput.
-   12.2 Sharding for Data Storage
-      - Partition MongoDB collections based on user regions or product categories.
-   12.3 CDN Integration
-      - Use a Content Delivery Network (CDN) like Cloudflare or AWS CloudFront to serve static assets globally.
-   12.4 Off-Chain Processing
-      - Offload non-essential computations (e.g., product recommendations) to backend servers.
+### 12. Scalability Strategies
+
+- Layer 2 Solutions
+    - Use Polygon or Arbitrum to reduce gas fees and increase transaction throughput.
+    - Sharding for Data Storage
+    - Partition MongoDB collections based on user regions or product categories.
+- CDN Integration
+    - Use a Content Delivery Network (CDN) like Cloudflare or AWS CloudFront to serve static assets globally.
+- Off-Chain Processing
+    - Offload non-essential computations (e.g., product recommendations) to backend servers.
 
 ---
 
@@ -318,10 +319,11 @@ Phase 4: Global Launch and Optimization (Ongoing)
 ---
 
 ### 14. Security and Compliance
-14.1 Security Measures
-    - Smart Contract Audits:
-    - Use MythX, Certik, or OpenZeppelin Defender.
-    - Data Encryption:
+
+- 14.1 Security Measures
+   - Smart Contract Audits:
+      - Use MythX, Certik, or OpenZeppelin Defender.
+   - Data Encryption:
       - Encrypt sensitive data like user profiles using AES or RSA.
       - Two-Factor Authentication (2FA):
       - Require 2FA for vendor and admin accounts.
@@ -338,14 +340,15 @@ Phase 4: Global Launch and Optimization (Ongoing)
 ---
 
 ### 15. Future Enhancements
-15.1 Integration with IoT for Halal Supply Chain
-         - Use IoT sensors to monitor halal compliance during transportation (e.g., temperature control).
-15.2 Smart Logistics
-         - Implement blockchain-based logistics contracts to automate delivery status updates.
-15.3 Decentralized Identity (DID)
-         - Allow vendors and customers to use blockchain-based identities for authentication.
-15.4 Cross-Border Payments
-         - Enable seamless cross-border payments using stablecoins or Layer 2 solutions.
+
+- Integration with IoT for Halal Supply Chain
+  - Use IoT sensors to monitor halal compliance during transportation (e.g., temperature control).
+- Smart Logistics
+  - Implement blockchain-based logistics contracts to automate delivery status updates.
+- Decentralized Identity (DID)
+  - Allow vendors and customers to use blockchain-based identities for authentication.
+- Cross-Border Payments
+  - Enable seamless cross-border payments using stablecoins or Layer 2 solutions.
 
 ---
 

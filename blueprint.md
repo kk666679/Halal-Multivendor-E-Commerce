@@ -278,41 +278,42 @@ For inquiries, reach out to **admin@chemmara.com**.
 
 ### 12. Scalability Strategies
 12.1 Layer 2 Solutions
-         - Use Polygon or Arbitrum to reduce gas fees and increase transaction throughput.
+   - Use Polygon or Arbitrum to reduce gas fees and increase transaction throughput.
 12.2 Sharding for Data Storage
-         - Partition MongoDB collections based on user regions or product categories.
+   - Partition MongoDB collections based on user regions or product categories.
 12.3 CDN Integration
-         - Use a Content Delivery Network (CDN) like Cloudflare or AWS CloudFront to serve static assets globally.
+   - Use a Content Delivery Network (CDN) like Cloudflare or AWS CloudFront to serve static assets globally.
 12.4 Off-Chain Processing
-         - Offload non-essential computations (e.g., product recommendations) to backend servers.
+   - Offload non-essential computations (e.g., product recommendations) to backend servers.
 
 ---
 
 ### 13. Roadmap for Deployment
+
 Phase 1: Foundation (1-2 Months)
-         - Objective: Set up the initial infrastructure and test blockchain integration.
-         - Tasks:
-            - Develop smart contracts for halal certification and product listing.
-            - Build a basic React frontend with MetaMask connection.
-            - Deploy contracts to a testnet.
+   - Objective: Set up the initial infrastructure and test blockchain integration.
+   - Tasks:
+      - Develop smart contracts for halal certification and product listing.
+      - Build a basic React frontend with MetaMask connection.
+      - Deploy contracts to a testnet.
 Phase 2: Core Features (2-3 Months)
-         - Objective: Implement core functionality and deploy to production.
-         - Tasks:
-            - Add multivendor features (registration, product management).
-            - Integrate off-chain storage (IPFS, MongoDB).
-            - Deploy to Ethereum Mainnet or Polygon.
+   - Objective: Implement core functionality and deploy to production.
+   - Tasks:
+      - Add multivendor features (registration, product management).
+      - Integrate off-chain storage (IPFS, MongoDB).
+      - Deploy to Ethereum Mainnet or Polygon.
 Phase 3: Advanced Features (3-4 Months)
-         - Objective: Enhance the platform with scalability and user engagement.
-         - Tasks:
-            - Introduce a tokenized loyalty program.
-            - Develop AI-powered product recommendations.
-            - Implement DAO governance.
+   - Objective: Enhance the platform with scalability and user engagement.
+   - Tasks:
+      - Introduce a tokenized loyalty program.
+      - Develop AI-powered product recommendations.
+      - Implement DAO governance.
 Phase 4: Global Launch and Optimization (Ongoing)
-         - Objective: Scale the platform for global accessibility and refine based on feedback.
-         - Tasks:
-            - Add multilingual support.
-            - Partner with halal certification authorities and logistics providers.
-            - Conduct security audits and optimize performance.
+   - Objective: Scale the platform for global accessibility and refine based on feedback.
+   - Tasks:
+      - Add multilingual support.
+      - Partner with halal certification authorities and logistics providers.
+      - Conduct security audits and optimize performance.
 
 ---
 

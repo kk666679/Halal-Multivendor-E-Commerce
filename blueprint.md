@@ -338,13 +338,13 @@ Phase 4: Global Launch and Optimization (Ongoing)
 ---
 
 ### 15. Future Enhancements
-   15.1 Integration with IoT for Halal Supply Chain
+15.1 Integration with IoT for Halal Supply Chain
          - Use IoT sensors to monitor halal compliance during transportation (e.g., temperature control).
-   15.2 Smart Logistics
+15.2 Smart Logistics
          - Implement blockchain-based logistics contracts to automate delivery status updates.
-   15.3 Decentralized Identity (DID)
+15.3 Decentralized Identity (DID)
          - Allow vendors and customers to use blockchain-based identities for authentication.
-   15.4 Cross-Border Payments
+15.4 Cross-Border Payments
          - Enable seamless cross-border payments using stablecoins or Layer 2 solutions.
 
 ---
